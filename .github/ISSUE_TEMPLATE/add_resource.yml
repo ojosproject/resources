@@ -1,0 +1,47 @@
+name: Add a Resource
+description: "I want to add a resource to the repository!"
+title: "Add [RESOURCE NAME]"
+labels: ["Add Resource"]
+body:
+  - type: textarea
+    id: resource_label
+    attributes:
+      label: "Label"
+      description: "Give it a title, for example"
+      placeholder: "e.g.: 'Financial assistance'"
+    validations:
+      required: true
+  - type: textarea
+    id: resource_description
+    attributes:
+      label: "Description"
+      description: "A long, multi-line description about the resource."
+    validations:
+      required: true
+  - type: textarea
+    id: resource_url
+    attributes:
+      label: "Web link"
+      description: "A link for people to get more information."
+      placeholder: "e.g.: https://ojosproject.org/news/our-support/"
+    validations:
+      required: true
+  - type: textarea
+    id: "resource_author"
+    attributes:
+      label: "Individual/Organization"
+      description: "The entity offering the resource."
+      placeholder: "e.g.: Ojos Project"
+    validations:
+      required: true
+  - type: dropdown
+    id: "resource_type"
+    attributes:
+      label: "Type of Resource"
+      description: "Is this financial support? Church support? etc..."
+      multiple: false
+      options:
+        - Financial
+        - Legal
+    validations:
+      required: true

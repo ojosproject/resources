@@ -1,0 +1,24 @@
+name: Report Issue with Resource
+description: Something is wrong/outdated with a resource.
+title: ⚠️ Insert a short title for your report.
+labels: ["Report"]
+body:
+  - type: textarea
+    id: report_resource
+    attributes:
+      label: "Resource to Report"
+      description: "Which resource are you referring to?"
+  - type: textarea
+    id: report_summary
+    attributes:
+      label: Summary
+      description: Summarize the issue encountered concisely.
+    validations:
+      required: true
+  - type: textarea
+    id: report_change
+    attributes:
+      label: What should be changed in the resource?
+      description: Add any changes to the label, description, URL, organization, etc.
+    validations:
+      required: true

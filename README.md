@@ -1,5 +1,20 @@
 # Ojos Project's Resources Repository
 
+![Ojos Project header](https://ojosproject.org/images/header.png)
+
+## Table of Contents
+
+- [Ojos Project's Resources Repository](#ojos-projects-resources-repository)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Usage](#usage)
+  - [Support](#support)
+  - [Contributing](#contributing)
+    - [JSON File Structure](#json-file-structure)
+  - [License](#license)
+
+## Description
+
 This is a collection of resources found and organized in a single JSON file for
 developers to use in hospice-related software. These resources are for hospice
 patients and caregivers to use.

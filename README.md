@@ -33,7 +33,7 @@ this:
     "label": "Resource Label",
     "description": "A long, multi-line description about the resource.",
     "url": "A link for people to get more information.",
-    "added_by": "The person or organization who added that information.",
+    "organization": "The person or organization who added that information.",
     "type": "The type of resource. Financial? Mental health? Legal?"
 }
 ```

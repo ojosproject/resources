@@ -3,7 +3,7 @@
         "label": "Benefits Checkup",
         "description": "Discover various programs that may help with pay for healthcare, food, utilities, etc.",
         "url": "https://benefitscheckup.org/",
-        "added_by": "National Council on Aging",
+        "organization": "National Council on Aging",
         "type": "Financial"
     }
 ]

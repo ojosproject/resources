@@ -8,8 +8,8 @@ patients and caregivers to use.
 
 To use this file, you can call a GET request to the `request.json` file. You
 must use
-[this link](https://raw.githubusercontent.com/ojosproject/resources/release/resources.json)
-to fetch the resources from the approved `release` branch.
+[this link](https://raw.githubusercontent.com/ojosproject/resources/main/resources.json)
+to fetch the resources from the `main` branch.
 
 ## Support
 

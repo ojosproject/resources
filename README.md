@@ -21,7 +21,8 @@ repository.
 You have a few options for contributing to this repository:
 
 - Add the resource to the JSON file directly and open a PR
-- You may open an Issue with the "Add Resource" label and wait for us to add it
+- You may [open an Issue](https://github.com/ojosproject/resources/issues/new/choose/)
+  with the "Add Resource" label and wait for us to add it
 
 ### JSON File Structure
 

@@ -31,14 +31,23 @@ this:
 
 ```json
 {
-    "label": "Resource Label",
-    "description": "A long, multi-line description about the resource.",
-    "url": "A link for people to get more information.",
-    "organization": "The person or organization who added that information.",
-    "type": "The type of resource. Financial? Mental health? Legal?",
+    "label": "",
+    "description": "",
+    "url": "",
+    "organization": "",
+    "type": "",
     "last_updated": 0
 }
 ```
+
+| Key            | Type     | Description                                                 |
+| -------------- | -------- | ----------------------------------------------------------- |
+| `label`        | `string` | A label for the resource. Think of it as a title.           |
+| `description`  | `string` | A long, multi-line description about the resource.          |
+| `url`          | `string` | A link for people to get more information.                  |
+| `organization` | `string` | The person or organization who provides the resource.       |
+| `type`         | `string` | The kind of resource. Options include: `FINANCIAL`, `LEGAL` |
+| `last_updated` | `number` | The Unix timestamp of when the resource was modified.       |
 
 ## License
 

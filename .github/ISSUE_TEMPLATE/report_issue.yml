@@ -8,6 +8,8 @@ body:
     attributes:
       label: "Resource to Report"
       description: "Which resource are you referring to?"
+    validations:
+      required: true
   - type: textarea
     id: report_summary
     attributes:

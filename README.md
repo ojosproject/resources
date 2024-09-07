@@ -50,7 +50,7 @@ this:
     "description": "",
     "url": "",
     "organization": "",
-    "type": "",
+    "category": "",
     "last_updated": 0
 }
 ```
@@ -61,7 +61,7 @@ this:
 | `description`  | `string` | A long, multi-line description about the resource.          |
 | `url`          | `string` | A link for people to get more information.                  |
 | `organization` | `string` | The person or organization who provides the resource.       |
-| `type`         | `string` | The kind of resource. Options include: `FINANCIAL`, `LEGAL` |
+| `category`     | `string` | The kind of resource. Options include: `FINANCIAL`, `LEGAL` |
 | `last_updated` | `number` | The Unix timestamp of when the resource was modified.       |
 
 ## License

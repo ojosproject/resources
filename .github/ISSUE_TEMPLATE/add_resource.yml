@@ -35,10 +35,10 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: "resource_type"
+    id: "resource_category"
     attributes:
       label: "Type of Resource"
-      description: "Is this financial support? Church support? etc..."
+      description: "Is this financial support? Legal support? etc..."
       multiple: false
       options:
         - Financial

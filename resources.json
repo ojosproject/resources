@@ -14,5 +14,13 @@
         "organization": "National Hospice and Palliative Care Organization",
         "category": "INFORMATIONAL",
         "last_updated": 1725927206
+    },
+    {
+        "label": "The Conversation Project",
+        "description": "Help learn about your loved one's wishes.",
+        "url": "https://theconversationproject.org/",
+        "organization": "Institute for Healthcare Improvement",
+        "category": "INFORMATIONAL",
+        "last_updated": 1725927553
     }
 ]

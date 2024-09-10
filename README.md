@@ -1,5 +1,10 @@
 # Ojos Project's Resources Repository
 
+> [!CAUTION]
+> The `resources.json` file is not yet ready for use and is in active
+> development alongside [Iris](https://github.com/ojosproject/iris). Please use
+> with caution until this banner is removed. Thank you for your understanding.
+
 ![Ojos Project header](https://ojosproject.org/images/header.png)
 
 ## Table of Contents

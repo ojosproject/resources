@@ -22,5 +22,13 @@
         "organization": "Institute for Healthcare Improvement",
         "category": "INFORMATIONAL",
         "last_updated": 1725927553
+    },
+    {
+        "label": "Medicare's Care Compare Tool",
+        "description": "Compare the different kinds of Medicare providers.",
+        "url": "https://www.medicare.gov/care-compare/",
+        "organization": "Medicare",
+        "category": "INFORMATIONAL",
+        "last_updated": 1725927712
     }
 ]

@@ -6,5 +6,13 @@
         "organization": "National Council on Aging",
         "category": "FINANCIAL",
         "last_updated": 1725656160
+    },
+    {
+        "label": "CaringInfo",
+        "description": "Guides and resources to help you make informed decisions during a serious illness.",
+        "url": "https://www.caringinfo.org/",
+        "organization": "National Hospice and Palliative Care Organization",
+        "category": "INFORMATIONAL",
+        "last_updated": 1725927206
     }
 ]

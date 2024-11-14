@@ -30,5 +30,29 @@
         "organization": "Medicare",
         "category": "INFORMATIONAL",
         "last_updated": 1725927712
+    },
+    {
+        "label": "r/hospice",
+        "description": "Hospice & Palliative Care: Our community is a safe space for all to communicate about hospice. Our goal is to support you through your personal journey. ",
+        "url": "https://reddit.com/r/hospice/",
+        "organization": "r/hospice",
+        "category": "SUPPORT GROUPS",
+        "last_updated": 1731574345
+    },
+    {
+        "label": "r/CaregiverSupport",
+        "description": "Support for Caregivers: Welcome! Caregiving is an enormously challenging role, physically, emotionally, and financially. We are a caring community of caregivers here to support you, to problem solve with you and to simply let you vent when you need to. We are so glad you are here.",
+        "url": "https://reddit.com/r/CaregiverSupport",
+        "organization": "r/CaregiverSupport",
+        "category": "SUPPORT GROUPS",
+        "last_updated": 1731574345
+    },
+    {
+        "label": "The Compassionate Friends",
+        "description": "Here on The Compassionate Friends national website, you will find support in a number of different ways.",
+        "url": "https://www.compassionatefriends.org/find-support/family-support/",
+        "organization": "The Compassionate Friends",
+        "category": "SUPPORT GROUPS",
+        "last_updated": 1731574345
     }
 ]

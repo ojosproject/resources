@@ -1,9 +1,8 @@
 # Ojos Project's Resources Repository
 
-> [!CAUTION]
-> The `resources.json` file is not yet ready for use and is in active
-> development alongside [Iris](https://github.com/ojosproject/iris). Please use
-> with caution until this banner is removed. Thank you for your understanding.
+> [!NOTE]
+> Once Iris v0.1.0 is released, Iris will no longer pull data from the Resources
+> repository. This repository is now deprecated.
 
 ![Ojos Project header](https://ojosproject.org/images/header.png)
 
